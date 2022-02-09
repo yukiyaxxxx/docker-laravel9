@@ -4,7 +4,7 @@
 
 ### 初期化
 ```
-sh start.sh
+sh initialize.sh
 ```
 
 ### URL
