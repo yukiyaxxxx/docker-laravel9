@@ -2,11 +2,10 @@
 
 とりあえずlaravel9を起動するdocker。
 
-### 初期化
-```
-sh initialize.sh
-```
+### つかいかた
 
-### URL
+```
+git clone https://github.com/yukiyaxxxx/docker-laravel9.git
+sh http://initialize.sh
 http://localhost:7070
-
+```
